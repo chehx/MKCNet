@@ -4,7 +4,7 @@ from configs.defaults import _C as cfg_default
 
 def get_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--root", type=str, default="/home/hche/DomainGeneralization/IQADATA", help="path to dataset")
+    parser.add_argument("--root", type=str, default="YOUR_ROOT", help="path to dataset")
     parser.add_argument("--dataset", type=str, default="DRAC", help="dataset name")
     parser.add_argument("--gpu", type=str,  default="0", help="gpu id")
     parser.add_argument("--output", type=str, default="test", help="output path")
