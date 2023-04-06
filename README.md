@@ -19,10 +19,8 @@ This iterative process leads to an end-to-end interaction between the two subnet
 <br/>
 <br/>
 <p align="center">
-  <img src="./figure/framework.pdf">
+  <img src="./figure/pipeline.png">
 </p>
-
-![Example Image](https://github.com/chehx/MKCNet/blob/main/figure/pipeline.pdf)
 
 ## Getting Started
 These instructions will help you set up and run the project on your local machine for training and testing purposes.
