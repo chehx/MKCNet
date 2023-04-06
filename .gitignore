@@ -1,0 +1,8 @@
+# Ignore cache
+*/__pycache__
+
+result/
+*.ipynb
+*.out
+
+train_shell.py

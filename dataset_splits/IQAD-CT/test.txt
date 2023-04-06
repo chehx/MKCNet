@@ -1,0 +1,471 @@
+image_name,DR_label,IQ_label
+Images/2020.02.17.20024018-p17-61%2.png,1,0
+Images/2020.03.12.20027185-p8-216.png,1,0
+Images/2020.02.13.20022673-p13-77%1.png,1,0
+Images/2020.03.26.20041426-p11-120.png,1,0
+Images/2020.03.04.20030395-p27-108%8.png,1,0
+Images/Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%3.png,1,0
+Images/2020.03.13.20035212-p23-154.png,1,0
+Images/2020.03.16.20035105-p6-64-4.png,1,0
+Images/2020.03.01.20029769-p21-73_3.png,1,0
+Images/2020.03.11.20033159-p12-45%1.png,1,0
+Images/2020.03.21.20040691-p18-67-2.png,1,0
+Images/2020.03.22.20040782-p24-1533-5.png,1,0
+Images/Ni2020_Article_CombinationOfWesternMedicineAn-p3-10%1.png,1,0
+Images/2020.03.03.20030775-p10-88%1.png,1,0
+Images/impact_of_covid19_infection_on_pregnancy_outcomes_and_the_risk_of_maternaltoneonatal_intrapartum_transmission_of_covid19_during_natural_birth-p8-41%3.png,1,0
+Images/2020.03.13.20035212-p23-161.png,1,0
+Images/bmj.m606.full-p4-22%0.png,1,0
+Images/2020.03.20.20037325-p23-123.png,1,0
+Images/2020.03.04.20031047-p13-84%3.png,1,0
+Images/2020.02.23.20026856-p17-115%4.png,1,0
+Images/2020.03.13.20035212-p23-163.png,1,0
+Images/2020.03.22.20040782-p24-1533-7.png,1,0
+Images/2020.03.04.20030395-p27-108%0.png,1,0
+Images/2020.03.19.20038539-p10-60.png,1,0
+Images/2020.03.04.20031039-p23-97_2%1.png,1,0
+Images/2020.03.01.20029769-p21-73_1%0.png,1,0
+Images/2020.02.11.20022053-p12-67%2.png,1,0
+Images/2020.03.22.20040782-p25-1541.png,1,0
+Images/2020.03.11.20033159-p12-45%2.png,1,0
+Images/2020.03.13.20035212-p23-160.png,1,0
+Images/2020.02.27.20027557-p25-137%2.png,1,0
+Images/2020.02.25.20021568-p23-108%13.png,1,0
+Images/2020.03.21.20040691-p18-67-5.png,1,0
+Images/2020.03.11.20033159-p12-45%3.png,1,0
+Images/Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%9.png,1,0
+Images/2020.02.26.20026989-p34-114_2%0.png,1,0
+Images/PIIS0140673620302117_2.png,1,0
+Images/2020.03.07.20031393-p7-50%1.png,1,0
+Images/2020.03.19.20038539-p10-59.png,1,0
+Images/2020.03.16.20036145-p19-128-1.png,1,0
+Images/2020.02.17.20024018-p17-61%0.png,1,0
+Images/2020.03.10.20032136-p34-118_1%0.png,1,0
+Images/2020.03.18.20038125-p16-56-2.png,1,0
+Images/2020.03.04.20031039-p23-97_2%0.png,1,0
+Images/kjr-21-e24-p2-8.png,1,0
+Images/Ni2020_Article_CombinationOfWesternMedicineAn-p4-13%1.png,1,0
+Images/2020.03.01.20029769-p21-73_2%0.png,1,0
+Images/2020.02.23.20026856-p17-115%5.png,1,0
+Images/2020.02.10.20021584-p6-52%2.png,1,0
+Images/2020.02.24.20027201-p19-669.png,1,0
+Images/Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%5.png,1,0
+Images/Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%1.png,1,0
+Images/2020.03.21.20040691-p18-67-7.png,1,0
+Images/2020.03.20.20037325-p23-122.png,1,0
+Images/2020.02.27.20027557-p25-137%3.png,1,0
+Images/Comparison-of-different-samples-for-2019-novel-cor_2020_International-Journa-p2-21%6.png,1,0
+Images/2020.03.22.20040782-p24-1533-2.png,1,0
+Images/2020.02.25.20021568-p23-108%10.png,1,0
+Images/2020.03.18.20038125-p16-56-5.png,1,0
+Images/2020.01.24.919183-p27-134.png,1,0
+Images/2020.03.18.20038125-p16-56-4.png,1,0
+Images/2020.03.04.20026005-p12-1946%2.png,1,0
+Images/2020.02.22.20024927-p19-68%4.png,1,0
+Images/2019-novel-Coronavirus-severe-adult-respiratory-dist_2020_International-Jour-p3-89%1.png,1,0
+Images/2020.02.17.20024018-p17-61%3.png,1,0
+Images/2020.02.24.20027052-p8-73%2.png,1,0
+Images/2020.03.04.20031047-p13-84%5.png,1,0
+Images/2020.02.25.20021568-p23-108%3.png,1,0
+Images/2020.02.10.20021584-p6-52%7.png,1,0
+Images/2020.03.21.20040691-p18-67-1.png,1,0
+Images/890.png,0,0
+Images/1868.png,0,0
+Images/31.jpg,0,0
+Images/30%1.jpg,0,0
+Images/112.png,0,0
+Images/64.jpg,0,0
+Images/82%0.jpg,0,0
+Images/43.png,0,0
+Images/997.png,0,0
+Images/67%1.jpg,0,0
+Images/24.png,0,0
+Images/1575.png,0,0
+Images/887.png,0,0
+Images/41.jpg,0,0
+Images/580.png,0,0
+Images/1463.png,0,0
+Images/1561.png,0,0
+Images/39%1.jpg,0,0
+Images/4%3.jpg,0,0
+Images/6%3.jpg,0,0
+Images/26%3.jpg,0,0
+Images/32%0.jpg,0,0
+Images/63%6.jpg,0,0
+Images/3.jpg,0,0
+Images/9.jpg,0,0
+Images/52%1.jpg,0,0
+Images/30%5.jpg,0,0
+Images/84%2.jpg,0,0
+Images/63%0.jpg,0,0
+Images/1876.png,0,0
+Images/1330.png,0,0
+Images/86.jpg,0,0
+Images/754.png,0,0
+Images/586.png,0,0
+Images/56%1.jpg,0,0
+Images/30%3.jpg,0,0
+Images/4%7.jpg,0,0
+Images/33%1.jpg,0,0
+Images/44%0.jpg,0,0
+Images/227.png,0,0
+Images/14.png,0,0
+Images/75%0.jpg,0,0
+Images/663.png,0,0
+Images/1305.png,0,0
+Images/1047.png,0,0
+Images/8.jpg,0,0
+Images/103.png,0,0
+Images/71%0.jpg,0,0
+Images/706.png,0,0
+Images/1309.png,0,0
+Images/30%0.jpg,0,0
+Images/42.jpg,0,0
+Images/40%0.jpg,0,0
+Images/486.png,0,0
+Images/1952.png,0,0
+Images/1221.png,0,0
+Images/39%8.jpg,0,0
+Images/47.jpg,0,0
+Images/25%3.jpg,0,0
+Images/69%0.jpg,0,0
+Images/1164.png,0,0
+Images/63%2.jpg,0,0
+Images/1332.png,0,0
+Images/2007.png,0,0
+Images/585.png,0,0
+Images/1070.png,0,0
+Images/20.jpg,0,0
+Images/56%0.jpg,0,0
+Images/5%7.jpg,0,0
+Images/57%0.jpg,0,0
+Images/577.png,0,0
+Images/39%0.jpg,0,0
+Images/176.png,0,0
+Images/1845.png,0,0
+Images/88.jpg,0,0
+Images/39%6.jpg,0,0
+Images/40%1.jpg,0,0
+Images/116.png,0,0
+Images/1059.png,0,0
+Images/6%2.jpg,0,0
+Images/Covid (702).png,1,1
+Images/Covid (1045).png,1,1
+Images/Covid (534).png,1,1
+Images/Covid (493).png,1,1
+Images/Covid (736).png,1,1
+Images/Covid (190).png,1,1
+Images/Covid (438).png,1,1
+Images/Covid (245).png,1,1
+Images/Covid (1043).png,1,1
+Images/Covid (89).png,1,1
+Images/Covid (456).png,1,1
+Images/Covid (154).png,1,1
+Images/Covid (1200).png,1,1
+Images/Covid (944).png,1,1
+Images/Covid (472).png,1,1
+Images/Covid (1015).png,1,1
+Images/Covid (1212).png,1,1
+Images/Covid (308).png,1,1
+Images/Covid (1131).png,1,1
+Images/Covid (709).png,1,1
+Images/Covid (1138).png,1,1
+Images/Covid (366).png,1,1
+Images/Covid (929).png,1,1
+Images/Covid (990).png,1,1
+Images/Covid (583).png,1,1
+Images/Covid (43).png,1,1
+Images/Covid (398).png,1,1
+Images/Covid (732).png,1,1
+Images/Covid (1117).png,1,1
+Images/Covid (17).png,1,1
+Images/Covid (1046).png,1,1
+Images/Covid (895).png,1,1
+Images/Covid (623).png,1,1
+Images/Covid (307).png,1,1
+Images/Covid (1211).png,1,1
+Images/Covid (199).png,1,1
+Images/Covid (834).png,1,1
+Images/Covid (622).png,1,1
+Images/Covid (700).png,1,1
+Images/Covid (508).png,1,1
+Images/Covid (30).png,1,1
+Images/Covid (481).png,1,1
+Images/Covid (247).png,1,1
+Images/Covid (134).png,1,1
+Images/Covid (808).png,1,1
+Images/Covid (218).png,1,1
+Images/Covid (907).png,1,1
+Images/Covid (569).png,1,1
+Images/Covid (478).png,1,1
+Images/Covid (1119).png,1,1
+Images/Covid (1050).png,1,1
+Images/Covid (178).png,1,1
+Images/Covid (93).png,1,1
+Images/Covid (677).png,1,1
+Images/Covid (775).png,1,1
+Images/Covid (242).png,1,1
+Images/Covid (1111).png,1,1
+Images/Covid (909).png,1,1
+Images/Covid (1247).png,1,1
+Images/Covid (634).png,1,1
+Images/Covid (812).png,1,1
+Images/Covid (546).png,1,1
+Images/Covid (369).png,1,1
+Images/Covid (317).png,1,1
+Images/Covid (753).png,1,1
+Images/Covid (694).png,1,1
+Images/Covid (133).png,1,1
+Images/Covid (1221).png,1,1
+Images/Covid (748).png,1,1
+Images/Covid (902).png,1,1
+Images/Covid (320).png,1,1
+Images/Covid (969).png,1,1
+Images/Covid (1051).png,1,1
+Images/Covid (742).png,1,1
+Images/Covid (697).png,1,1
+Images/Covid (192).png,1,1
+Images/Covid (1063).png,1,1
+Images/Covid (1251).png,1,1
+Images/Covid (107).png,1,1
+Images/Covid (151).png,1,1
+Images/Covid (479).png,1,1
+Images/Covid (395).png,1,1
+Images/Covid (530).png,1,1
+Images/Covid (519).png,1,1
+Images/Covid (543).png,1,1
+Images/Covid (121).png,1,1
+Images/Covid (1132).png,1,1
+Images/Covid (367).png,1,1
+Images/Covid (650).png,1,1
+Images/Covid (715).png,1,1
+Images/Covid (939).png,1,1
+Images/Covid (1232).png,1,1
+Images/Covid (183).png,1,1
+Images/Covid (1025).png,1,1
+Images/Covid (280).png,1,1
+Images/Covid (353).png,1,1
+Images/Covid (1100).png,1,1
+Images/Covid (135).png,1,1
+Images/Covid (313).png,1,1
+Images/Covid (854).png,1,1
+Images/Covid (1135).png,1,1
+Images/Covid (943).png,1,1
+Images/Covid (169).png,1,1
+Images/Covid (25).png,1,1
+Images/Covid (971).png,1,1
+Images/Covid (938).png,1,1
+Images/Covid (942).png,1,1
+Images/Covid (679).png,1,1
+Images/Covid (148).png,1,1
+Images/Covid (721).png,1,1
+Images/Covid (925).png,1,1
+Images/Covid (579).png,1,1
+Images/Covid (610).png,1,1
+Images/Covid (477).png,1,1
+Images/Covid (402).png,1,1
+Images/Covid (322).png,1,1
+Images/Covid (516).png,1,1
+Images/Covid (828).png,1,1
+Images/Covid (1034).png,1,1
+Images/Covid (626).png,1,1
+Images/Covid (1011).png,1,1
+Images/Covid (868).png,1,1
+Images/Covid (1182).png,1,1
+Images/Covid (848).png,1,1
+Images/Covid (885).png,1,1
+Images/Covid (35).png,1,1
+Images/Covid (187).png,1,1
+Images/Covid (608).png,1,1
+Images/Covid (658).png,1,1
+Images/Covid (466).png,1,1
+Images/Covid (480).png,1,1
+Images/Covid (553).png,1,1
+Images/Covid (87).png,1,1
+Images/Covid (827).png,1,1
+Images/Covid (475).png,1,1
+Images/Covid (1037).png,1,1
+Images/Covid (370).png,1,1
+Images/Covid (898).png,1,1
+Images/Covid (768).png,1,1
+Images/Covid (105).png,1,1
+Images/Covid (1141).png,1,1
+Images/Covid (1134).png,1,1
+Images/Covid (238).png,1,1
+Images/Covid (756).png,1,1
+Images/Covid (42).png,1,1
+Images/Covid (189).png,1,1
+Images/Covid (206).png,1,1
+Images/Covid (394).png,1,1
+Images/Covid (766).png,1,1
+Images/Covid (352).png,1,1
+Images/Covid (793).png,1,1
+Images/Covid (336).png,1,1
+Images/Covid (1084).png,1,1
+Images/Covid (1019).png,1,1
+Images/Covid (269).png,1,1
+Images/Covid (1006).png,1,1
+Images/Covid (580).png,1,1
+Images/Covid (1230).png,1,1
+Images/Covid (1107).png,1,1
+Images/Covid (418).png,1,1
+Images/Non-Covid (1139).png,0,1
+Images/Non-Covid (462).png,0,1
+Images/Non-Covid (724).png,0,1
+Images/Non-Covid (1062).png,0,1
+Images/Non-Covid (712).png,0,1
+Images/Non-Covid (897).png,0,1
+Images/Non-Covid (1102).png,0,1
+Images/Non-Covid (214).png,0,1
+Images/Non-Covid (493).png,0,1
+Images/Non-Covid (536).png,0,1
+Images/Non-Covid (1087).png,0,1
+Images/Non-Covid (1001).png,0,1
+Images/Non-Covid (195).png,0,1
+Images/Non-Covid (517).png,0,1
+Images/Non-Covid (677).png,0,1
+Images/Non-Covid (711).png,0,1
+Images/Non-Covid (1167).png,0,1
+Images/Non-Covid (862).png,0,1
+Images/Non-Covid (800).png,0,1
+Images/Non-Covid (512).png,0,1
+Images/Non-Covid (482).png,0,1
+Images/Non-Covid (43).png,0,1
+Images/Non-Covid (184).png,0,1
+Images/Non-Covid (290).png,0,1
+Images/Non-Covid (757).png,0,1
+Images/Non-Covid (276).png,0,1
+Images/Non-Covid (457).png,0,1
+Images/Non-Covid (347).png,0,1
+Images/Non-Covid (741).png,0,1
+Images/Non-Covid (888).png,0,1
+Images/Non-Covid (17).png,0,1
+Images/Non-Covid (384).png,0,1
+Images/Non-Covid (544).png,0,1
+Images/Non-Covid (99).png,0,1
+Images/Non-Covid (44).png,0,1
+Images/Non-Covid (389).png,0,1
+Images/Non-Covid (479).png,0,1
+Images/Non-Covid (523).png,0,1
+Images/Non-Covid (506).png,0,1
+Images/Non-Covid (592).png,0,1
+Images/Non-Covid (996).png,0,1
+Images/Non-Covid (1026).png,0,1
+Images/Non-Covid (894).png,0,1
+Images/Non-Covid (210).png,0,1
+Images/Non-Covid (8).png,0,1
+Images/Non-Covid (251).png,0,1
+Images/Non-Covid (441).png,0,1
+Images/Non-Covid (230).png,0,1
+Images/Non-Covid (683).png,0,1
+Images/Non-Covid (509).png,0,1
+Images/Non-Covid (261).png,0,1
+Images/Non-Covid (84).png,0,1
+Images/Non-Covid (936).png,0,1
+Images/Non-Covid (1093).png,0,1
+Images/Non-Covid (646).png,0,1
+Images/Non-Covid (629).png,0,1
+Images/Non-Covid (224).png,0,1
+Images/Non-Covid (380).png,0,1
+Images/Non-Covid (299).png,0,1
+Images/Non-Covid (61).png,0,1
+Images/Non-Covid (612).png,0,1
+Images/Non-Covid (1110).png,0,1
+Images/Non-Covid (254).png,0,1
+Images/Non-Covid (911).png,0,1
+Images/Non-Covid (1201).png,0,1
+Images/Non-Covid (946).png,0,1
+Images/Non-Covid (328).png,0,1
+Images/Non-Covid (1055).png,0,1
+Images/Non-Covid (721).png,0,1
+Images/Non-Covid (844).png,0,1
+Images/Non-Covid (88).png,0,1
+Images/Non-Covid (806).png,0,1
+Images/Non-Covid (209).png,0,1
+Images/Non-Covid (627).png,0,1
+Images/Non-Covid (113).png,0,1
+Images/Non-Covid (207).png,0,1
+Images/Non-Covid (631).png,0,1
+Images/Non-Covid (564).png,0,1
+Images/Non-Covid (889).png,0,1
+Images/Non-Covid (442).png,0,1
+Images/Non-Covid (1122).png,0,1
+Images/Non-Covid (1009).png,0,1
+Images/Non-Covid (1080).png,0,1
+Images/Non-Covid (1010).png,0,1
+Images/Non-Covid (702).png,0,1
+Images/Non-Covid (595).png,0,1
+Images/Non-Covid (796).png,0,1
+Images/Non-Covid (322).png,0,1
+Images/Non-Covid (173).png,0,1
+Images/Non-Covid (396).png,0,1
+Images/Non-Covid (324).png,0,1
+Images/Non-Covid (811).png,0,1
+Images/Non-Covid (1158).png,0,1
+Images/Non-Covid (397).png,0,1
+Images/Non-Covid (142).png,0,1
+Images/Non-Covid (797).png,0,1
+Images/Non-Covid (1141).png,0,1
+Images/Non-Covid (237).png,0,1
+Images/Non-Covid (446).png,0,1
+Images/Non-Covid (80).png,0,1
+Images/Non-Covid (1117).png,0,1
+Images/Non-Covid (1219).png,0,1
+Images/Non-Covid (59).png,0,1
+Images/Non-Covid (55).png,0,1
+Images/Non-Covid (1116).png,0,1
+Images/Non-Covid (958).png,0,1
+Images/Non-Covid (1203).png,0,1
+Images/Non-Covid (771).png,0,1
+Images/Non-Covid (1104).png,0,1
+Images/Non-Covid (729).png,0,1
+Images/Non-Covid (1156).png,0,1
+Images/Non-Covid (842).png,0,1
+Images/Non-Covid (355).png,0,1
+Images/Non-Covid (874).png,0,1
+Images/Non-Covid (626).png,0,1
+Images/Non-Covid (101).png,0,1
+Images/Non-Covid (1211).png,0,1
+Images/Non-Covid (623).png,0,1
+Images/Non-Covid (218).png,0,1
+Images/Non-Covid (401).png,0,1
+Images/Non-Covid (713).png,0,1
+Images/Non-Covid (120).png,0,1
+Images/Non-Covid (1164).png,0,1
+Images/Non-Covid (951).png,0,1
+Images/Non-Covid (549).png,0,1
+Images/Non-Covid (566).png,0,1
+Images/Non-Covid (165).png,0,1
+Images/Non-Covid (488).png,0,1
+Images/Non-Covid (1019).png,0,1
+Images/Non-Covid (857).png,0,1
+Images/Non-Covid (125).png,0,1
+Images/Non-Covid (231).png,0,1
+Images/Non-Covid (640).png,0,1
+Images/Non-Covid (570).png,0,1
+Images/Non-Covid (81).png,0,1
+Images/Non-Covid (463).png,0,1
+Images/Non-Covid (1075).png,0,1
+Images/Non-Covid (98).png,0,1
+Images/Non-Covid (675).png,0,1
+Images/Non-Covid (66).png,0,1
+Images/Non-Covid (720).png,0,1
+Images/Non-Covid (985).png,0,1
+Images/Non-Covid (900).png,0,1
+Images/Non-Covid (1140).png,0,1
+Images/Non-Covid (56).png,0,1
+Images/Non-Covid (586).png,0,1
+Images/Non-Covid (229).png,0,1
+Images/Non-Covid (216).png,0,1
+Images/Non-Covid (172).png,0,1
+Images/Non-Covid (1038).png,0,1
+Images/Non-Covid (810).png,0,1
+Images/Non-Covid (345).png,0,1
+Images/Non-Covid (464).png,0,1
+Images/Non-Covid (361).png,0,1
+Images/Non-Covid (666).png,0,1
+Images/Non-Covid (955).png,0,1
+Images/Non-Covid (1082).png,0,1
+Images/Non-Covid (60).png,0,1
+Images/Non-Covid (921).png,0,1
+Images/Non-Covid (693).png,0,1
