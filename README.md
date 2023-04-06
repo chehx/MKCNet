@@ -16,7 +16,7 @@ On the other hand, Meta Learner is designed to optimize Task Net's co-embedding 
 By providing beneficial auxiliary labels, Meta Learner helps Task Net to optimize its knowledge co-embedding features effectively. 
 This iterative process leads to an end-to-end interaction between the two subnets, resulting in a model that can adapt to variations in image quality and provide more accurate disease diagnosis.
 
-![Example Image](./figure/pipeline.pdf)
+![Example Image](https://github.com/chehx/MKCNet/blob/main/figure/pipeline.pdf)
 
 ## Getting Started
 These instructions will help you set up and run the project on your local machine for training and testing purposes.
