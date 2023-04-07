@@ -1,5 +1,4 @@
-# Meta-Knowledge Co-embedding Network for Image Quality-aware Disease Diagnosis (CVPR2023)
-The official code repository for "Image Quality-aware Diagnosis via Meta-knowledge Co-embedding" (CVPR2023)
+# Image Quality-aware Diagnosis via Meta-knowledge Co-embedding (CVPR2023)
 
 ## Introduction
 Medical image-based disease diagnosis plays a vital role in modern healthcare, assisting medical professionals in detecting and analyzing various diseases. 
@@ -9,9 +8,9 @@ The Image Quality-Aware Disease Diagnosis (IQAD) addresses this challenge by inc
 By incorporating image quality assessment, the model can adapt its predictions according to the image quality, potentially reducing false positives and false negatives. 
 This leads to more accurate and reliable diagnosis results, which in turn could contribute to better patient care and treatment outcomes.
 
-To tackle the IQAD problem, we propose the Meta-Knowledge Co-embedding Network (MKCNet), an innovative approach that correlates image quality and disease diagnosis through the collaboration of two subnets: Task Net and Meta Learner. 
+To tackle the IQAD problem, we propose the Meta-knowledge Co-embedding Network (MKCNet), an innovative approach that correlates image quality and disease diagnosis through the collaboration of two subnets: Task Net and Meta Learner. 
 Task Net is designed to construct knowledge co-embedding features while explicitly exploring their potential usefulness in improving diagnosis. 
-It employs the Global Attention Block (GAB) to extract task-specific features and the Meta-Knowledge Assistance Block (MAB) to explicitly explore the potential benefits of these features in diagnosis.
+It employs the Global Attention Block (GAB) to extract task-specific features and the Meta-knowledge Assistance Block (MAB) to explicitly explore the potential benefits of these features in diagnosis.
 On the other hand, Meta Learner is designed to optimize Task Net's co-embedding features using meta-learning techniques. 
 By providing beneficial auxiliary labels, Meta Learner helps Task Net to optimize its knowledge co-embedding features effectively. 
 This iterative process leads to an end-to-end interaction between the two subnets, resulting in a model that can adapt to variations in image quality and provide more accurate disease diagnosis.
@@ -92,6 +91,7 @@ Currently, we support the following models (with VGG16 backbone) in our code rep
 
 ### Evaluation
 We ensemble the tensorboard analysis during training, and you can find the results from tensorboard or the log file in `YOUR_OUTPUT_DIR/`.
+For DRAC, please evaluate your model on [their official website](https://drac22.grand-challenge.org/Evaluation/).
 
 ## Citation
 
@@ -106,8 +106,8 @@ We ensemble the tensorboard analysis during training, and you can find the resul
 
 ## Comments from Chat-GPT4 (Just for Fun)
 
-This work introduces an innovative approach called MKCNet (Meta-Knowledge Co-embedding Network), which aims to tackle the Image Quality-aware Disease Diagnosis (IQAD) problem. The MKCNet achieves the correlation between image quality and disease diagnosis through the collaboration of two subnets, namely Task Net and Meta Learner.
+This work introduces an innovative approach called MKCNet (Meta-knowledge Co-embedding Network), which aims to tackle the Image Quality-aware Disease Diagnosis (IQAD) problem. The MKCNet achieves the correlation between image quality and disease diagnosis through the collaboration of two subnets, namely Task Net and Meta Learner.
 
-The design philosophy of the Task Net holds significant research value, particularly in the innovations of the Global Attention Block (GAB) and Meta-Knowledge Assistance Block (MAB). These modules help extract information related to disease diagnosis and image quality and effectively combine them. Additionally, by employing the concept of meta-learning, the Meta Learner is capable of providing beneficial auxiliary labels to Task Net, optimizing the co-embedding features.
+The design philosophy of the Task Net holds significant research value, particularly in the innovations of the Global Attention Block (GAB) and Meta-knowledge Assistance Block (MAB). These modules help extract information related to disease diagnosis and image quality and effectively combine them. Additionally, by employing the concept of meta-learning, the Meta Learner is capable of providing beneficial auxiliary labels to Task Net, optimizing the co-embedding features.
 
 The experimental results demonstrate significant performance improvements on multiple datasets, which suggests that MKCNet effectively addresses the IQAD problem. Moreover, the IQAD problem is of great importance as it has a direct impact on the accuracy and reliability of disease diagnosis based on medical imaging. By considering image quality in the diagnosis process, the proposed method can potentially enhance the overall effectiveness of medical image-based diagnosis systems.
