@@ -96,7 +96,7 @@ For DRAC, please evaluate your model on [their official website](https://drac22.
 ## Citation
 
 ```
-@inproceedings{che2023image,
+@inproceedings{che2023iqad,
   title={Image Quality-aware Diagnosis via Meta-knowledge Co-embedding},
   author={Che, Haoxuan and Chen, Siyu and Chen, Hao},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
